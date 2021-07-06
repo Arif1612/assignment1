@@ -26,8 +26,9 @@ h1{ /*h1 ar font size baraise*/
     
 }
 .half-width img{ /* specially img ar size komaise*/
-    width: 90%;
+    width: 85%;
     padding-top: 5%;
+    border-radius: 30px;
 }
 
 .flexible-container{  /* container k vag korer jonno kora hoise*/
