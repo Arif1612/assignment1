@@ -3,10 +3,10 @@ body{
     margin: 0%;
 }
 
-h1{ /*h1 ar font size baraise*/
+h1{ 
     font-size: 50px;
 }
-h3{ /*h3 ar font size baraise*/
+h3{ 
     font-size: 20px;
 }
 .orange-color{  /*color dise*/
@@ -74,5 +74,21 @@ img{
     width: 100%;
     height: auto;
 }
+footer{   /*footer center*/
 
+    background-color: navy;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+   
+}
+
+.white-color{  /*color dise*/
+    color: white;
+}
+
+.green-color{  /*color dise*/
+    color: green;
+}
 
