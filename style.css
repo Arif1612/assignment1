@@ -6,6 +6,9 @@ body{
 h1{ /*h1 ar font size baraise*/
     font-size: 50px;
 }
+h3{ /*h3 ar font size baraise*/
+    font-size: 20px;
+}
 .orange-color{  /*color dise*/
     color: orange;
 }
@@ -35,7 +38,9 @@ h1{ /*h1 ar font size baraise*/
 .flexible-container{  /* container k vag korer jonno kora hoise*/
     display: flex;
     padding-left: 5%;
+    padding-right: 10%;
     margin-bottom: 120px;
+
 
 }
 
@@ -50,3 +55,24 @@ h1{ /*h1 ar font size baraise*/
     background-repeat: no-repeat ;
     background-position: right;
 }
+
+.title-item{  /*section 3 ar box shadow banaite ja ja lage kora hoise aikhane banaise */
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px gray;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 10px;
+    border-radius: 5%; 
+}
+img{
+   
+    border-radius: 10%;
+    width: 100%;
+    height: auto;
+}
+
+
